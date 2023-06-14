@@ -1,5 +1,4 @@
 //Khushi Desai
-//21BC264
 
 #include <stdio.h>
 #include <stdlib.h>
