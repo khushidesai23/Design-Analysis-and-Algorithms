@@ -1,5 +1,5 @@
 //Khushi Desai
-//21BCP264
+
 //CODE FOR STANDARD O(n^3) MATRIX MULTIPLICATION ALGORITHM:
 #include <stdio.h>
 //function to initially create null matrix and update the values after multiplying and adding the rows and cols 
