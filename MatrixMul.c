@@ -1,5 +1,4 @@
 //Khushi Desai
-//21BCP264
 
 //CODE USING STARSSEN’S MATRIX MULTIPLICATION ALGORITHM:
 #include<stdio.h>
