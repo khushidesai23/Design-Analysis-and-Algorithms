@@ -1,5 +1,4 @@
 //KHUSHI DESAI
-//21BCP264
 //insertion sort
 
 #include <stdio.h>
