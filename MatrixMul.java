@@ -1,5 +1,4 @@
 //KHUSHI DESAI
-//21BCP264
 
 //Matrix Multiplication using devide and conquer method with recursive function
 
