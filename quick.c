@@ -1,5 +1,4 @@
 //Khushi Desai
-//21BCP264
 //quick sort
 
 #include <stdio.h>
